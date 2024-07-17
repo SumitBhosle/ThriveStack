@@ -1,0 +1,16 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "marriage",
+      "date": "2024-07-17",
+      "location": "pune"
+    },
+    {
+      "id": "2",
+      "ename": "Exam",
+      "date": "",
+      "location": "hji"
+    }
+  ]
+}
